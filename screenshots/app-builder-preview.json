@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Flint",
+      "hasCanvas": false,
+      "bodyTextLen": 1011,
+      "bodyTextHash": "dfc17302c50d4e755b529a87b94715605521aa0208e3ab4e4992f10cb76d3268",
+      "bodyTextPrefix": "Flint GATEWAY Chat Gateway Providers Combos Compress Cache Hando",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Flint",
+      "hasCanvas": false,
+      "bodyTextLen": 815,
+      "bodyTextHash": "d21a382f903702a19f951995b4060cf605ae027a6fc68ce2cf3bf5df0a8838ac",
+      "bodyTextPrefix": "Flint $12.47 Combo /auto /coding /cheap /fast /cache /advisor AU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
